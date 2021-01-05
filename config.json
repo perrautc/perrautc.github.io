@@ -1,0 +1,30 @@
+{
+    "siteTitle": "Blog about Stuff",
+    "outputDir": "docs",
+    "copy": {
+        "/posts": "/"
+    },
+    "feed": {
+        "type": "rss",
+        "title": "Charles' Blog about Stuff",
+        "description": "Things that interest me",
+        "id": "https://cperraut.com",
+        "link": "https://cperraut.com/posts",
+        "image": "https://cperraut.com/img/logo.png",
+        "copyright": "Copyright: Charles Perraut",
+        "language": "en",
+        "generator": "Elmstatic",
+        "author": {
+            "name": "Charles Perraut",
+            "link": "https://cperraut.com/about"
+        }
+    },
+    "tags": [
+        "other",
+        "software",
+        "api",
+        "elixir",
+        "elm",
+        "c#"
+    ]
+}
