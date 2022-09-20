@@ -8965,7 +8965,7 @@ var $author$project$Styles$styles = function () {
 							$rtfeldman$elm_css$Css$px(6)),
 							$rtfeldman$elm_css$Css$textAlign($rtfeldman$elm_css$Css$center),
 							$rtfeldman$elm_css$Css$backgroundColor(
-							$rtfeldman$elm_css$Css$hex('f2fae8')),
+							$rtfeldman$elm_css$Css$hex('4287f5')),
 							wideScreen(
 							_List_fromArray(
 								[
@@ -8989,7 +8989,7 @@ var $author$project$Styles$styles = function () {
 							$rtfeldman$elm_css$Css$solid,
 							$rtfeldman$elm_css$Css$hex('3c8765')),
 							$rtfeldman$elm_css$Css$backgroundColor(
-							$rtfeldman$elm_css$Css$hex('f2fae8')),
+							$rtfeldman$elm_css$Css$hex('4287f5')),
 							$rtfeldman$elm_css$Css$padding(
 							$rtfeldman$elm_css$Css$px(10)),
 							$rtfeldman$elm_css$Css$marginTop(
@@ -9017,6 +9017,13 @@ var $author$project$Styles$styles = function () {
 											$rtfeldman$elm_css$Css$display($rtfeldman$elm_css$Css$inlineBlock),
 											$rtfeldman$elm_css$Css$marginRight(
 											$rtfeldman$elm_css$Css$px(20))
+										])),
+									$rtfeldman$elm_css$Css$Global$a(
+									_List_fromArray(
+										[
+											$rtfeldman$elm_css$Css$color(
+											$rtfeldman$elm_css$Css$hex('ffffff')),
+											$rtfeldman$elm_css$Css$textDecoration($rtfeldman$elm_css$Css$none)
 										]))
 								])),
 							wideScreen(
@@ -9049,7 +9056,7 @@ var $author$project$Styles$styles = function () {
 							$rtfeldman$elm_css$Css$solid,
 							$rtfeldman$elm_css$Css$hex('2f4858')),
 							$rtfeldman$elm_css$Css$backgroundColor(
-							$rtfeldman$elm_css$Css$hex('348aa7')),
+							$rtfeldman$elm_css$Css$hex('4287f5')),
 							$rtfeldman$elm_css$Css$color(
 							$rtfeldman$elm_css$Css$hex('ffffff')),
 							$rtfeldman$elm_css$Css$Global$descendants(

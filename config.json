@@ -11,7 +11,7 @@
         "id": "https://cperraut.com",
         "link": "https://cperraut.com/posts",
         "image": "https://cperraut.com/img/logo.png",
-        "copyright": "Copyright: Charles Perraut",
+        "copyright": "Copyright: 2022 Charles Perraut",
         "language": "en",
         "generator": "Elmstatic",
         "author": {
@@ -25,6 +25,7 @@
         "api",
         "elixir",
         "elm",
-        "c#"
+        "c#",
+        "random"
     ]
 }

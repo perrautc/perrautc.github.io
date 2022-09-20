@@ -4,7 +4,7 @@
         <title>Charles&apos; Blog about Stuff</title>
         <link>https://cperraut.com/posts</link>
         <description>Things that interest me</description>
-        <lastBuildDate>Tue, 05 Jan 2021 02:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 19:51:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Elmstatic</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <url>https://cperraut.com/img/logo.png</url>
             <link>https://cperraut.com/posts</link>
         </image>
-        <copyright>Copyright: Charles Perraut</copyright>
+        <copyright>Copyright: 2022 Charles Perraut</copyright>
         <item>
             <title><![CDATA[I'm using Elmstatic for my blog]]></title>
             <link>https://cperraut.com/posts/2019-01-01-using-elmstatic</link>

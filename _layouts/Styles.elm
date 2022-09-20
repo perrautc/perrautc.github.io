@@ -50,13 +50,13 @@ styles =
         , class "header-logo"
             [ paddingTop <| px 6
             , textAlign center
-            , backgroundColor <| hex "f2fae8"
+            , backgroundColor <| hex "4287f5"
             , wideScreen [ textAlign left, borderBottom3 (px 2) solid (hex "3c8765") ]
             ]
         , class "navigation"
             [ textAlign center
             , borderBottom3 (px 2) solid (hex "3c8765")
-            , backgroundColor <| hex "f2fae8"
+            , backgroundColor <| hex "4287f5"
             , padding <| px 10
             , marginTop <| px -20
             , descendants
@@ -69,6 +69,10 @@ styles =
                     [ display inlineBlock
                     , marginRight <| px 20
                     ]
+                    , a
+            [ Css.color <| hex "ffffff"
+            , textDecoration none
+            ]
                 ]
             , wideScreen [ marginTop <| px 0, padding <| px 0, textAlign right ]
             ]
@@ -76,7 +80,7 @@ styles =
         , class "footer"
             [ textAlign center
             , borderTop3 (px 2) solid (hex "2f4858")
-            , backgroundColor <| hex "348aa7"
+            , backgroundColor <| hex "4287f5"
             , Css.color <| hex "ffffff"
             , descendants
                 [ a [ Css.color <| hex "ffffff", textDecoration none ]
